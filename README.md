@@ -1,2 +1,4 @@
 # Email-mkt-responsivo
-Email marketing responsivo cross-browser
+Email marketing responsivo cross-browsers
+Exemplo abaixo, testado em varios clients
+
